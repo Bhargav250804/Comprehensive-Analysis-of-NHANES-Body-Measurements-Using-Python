@@ -94,9 +94,7 @@ Install dependencies using:
 pip install numpy matplotlib seaborn pandas
 ```
 
-## License
 
-This project is for educational purposes. The NHANES data excerpts are public domain and provided via the original [teaching-data repository](https://github.com/gagolews/teaching-data).
 
 ---
 
